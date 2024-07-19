@@ -1,0 +1,3 @@
+Personal torus/rotation study.
+
+Compile using `gcc donut.c -lm` on Linux and enjoy the rotations.
